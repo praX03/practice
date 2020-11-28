@@ -13,7 +13,6 @@ int multiply(int x, int res[], int res_size);
 void factorial(int n)
 {
     int res[500];
-    int n, b, c;
 
     // Initialize result
     res[0] = 1;
